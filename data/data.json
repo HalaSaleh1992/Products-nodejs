@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Ice coffee",
+        "description": "Greate taste",
+        "img": "coffee1.png"
+    },
+    {
+        "id": 2,
+        "name": "Hot coffee",
+        "description": "Greate taste",
+        "img": "coffee2.png"
+    }
+]
